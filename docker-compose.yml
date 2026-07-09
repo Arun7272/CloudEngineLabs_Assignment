@@ -1,0 +1,4 @@
+services:
+  cloudenginelabs:
+    image: arun24082004/cloudenginelabs-app:latest
+    container_name: cloudenginelabs-container
